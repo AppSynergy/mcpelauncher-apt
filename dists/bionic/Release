@@ -1,0 +1,19 @@
+Origin: thebrokenrail.github.io/mcpelauncher
+Label: thebrokenrail.github.io/mcpelauncher
+Codename: bionic
+Date: Sat, 15 Sep 2018 15:00:32 UTC
+Architectures: amd64
+Components: main
+Description: MCPELauncher
+MD5Sum:
+ 91875b4ed0f4c6ed1104c8a909c4b897 15109 main/binary-amd64/Packages
+ 2143860a2c767c4ad8cda7950327c120 2863 main/binary-amd64/Packages.gz
+ 81d726bc8fa457fe939d58fbf3ec27b4 151 main/binary-amd64/Release
+SHA1:
+ 5d9e08fa5fa9782ccca1d2ed8fe805372daf99c2 15109 main/binary-amd64/Packages
+ 9c165ef13c1e558de74a3658bc871409290bdab2 2863 main/binary-amd64/Packages.gz
+ 1eecde02ac6c72214390ad618bb682ec87789479 151 main/binary-amd64/Release
+SHA256:
+ bb6861210aba99970eca9074df2235fdea63656d6c3be91b0c9badb3f78efd3f 15109 main/binary-amd64/Packages
+ c2df9cd1af9c4cff67232df596262bd91ee34fa65e17f31ee31deee066587683 2863 main/binary-amd64/Packages.gz
+ 286306dcd219d27a1d33487cc6a754f332cfe1ffc26c5f4b5e8f42d20bb10bfa 151 main/binary-amd64/Release
